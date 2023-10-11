@@ -1,0 +1,9 @@
+.input-container {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 5px;
+  border-bottom: 1px solid rgb(197, 197, 197);
+  padding: 10px 5px;
+  align-items: center;
+  width: 100%;
+}

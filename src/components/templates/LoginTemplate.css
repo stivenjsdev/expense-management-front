@@ -1,0 +1,27 @@
+.header {
+  height: 180px;
+  background-color: lightgray;
+  padding: 10px;
+  margin-bottom: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 35px;
+
+  border: 1px solid black;
+  border-radius: 50%;
+
+  width: 100px;
+  height: 100px;
+
+  background-color: white;
+}
